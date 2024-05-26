@@ -2,4 +2,7 @@
 Rust Guessing Game!
 ```
 
-### Run Cargo Run 
+### In your dev terminal, enter the following;
+```
+cargo run 
+```
